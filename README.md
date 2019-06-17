@@ -1,8 +1,8 @@
 ## Tale of contents
 
-# [Big toe joint pain management](1stMPJPain.md)
+### [Orthotics Fitting & Care Instruction](orthoticswearinstruction.md)
 
-# [Orthotics Fitting & Care Instruction](orthoticswearinstruction.md)
+### [Big toe joint pain management - Round Table Discussion](1stMPJPain.md)
 
 
 # [Other problem]()
