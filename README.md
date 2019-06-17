@@ -1,4 +1,4 @@
-## Tale of contents
+# Tale of contents
 
 ### [Orthotics Fitting & Care Instruction](orthoticswearinstruction.md)
 
