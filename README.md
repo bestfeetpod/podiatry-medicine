@@ -2,7 +2,8 @@
 
 # [Big toe joint pain management](1stMPJPain.md)
 
-# [Orthotics Fitting & Care Instruction](New Orthotics Guideline.png)
+# [Orthotics Fitting & Care Instruction]
+[Download here](Orthotics_wear_instruction.png)
 
 # [Other problem]()
 
